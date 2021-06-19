@@ -10,6 +10,13 @@
       <outline title="ycombinator news" text="ycombinator news" type="rss" xmlUrl="https://news.ycombinator.com/rss"/>
       <outline title="The Hacker News" text="The Hacker News" type="rss" xmlUrl="https://feeds.feedburner.com/TheHackersNews"/>
       <outline title="Threatpost" text="Threatpost" type="rss" xmlUrl="https://threatpost.com/feed/"/>
+      <outline title="Feed: All Latest" text="Feed: All Latest" type="rss" xmlUrl="https://www.wired.com/feed/"/>
+      <outline title="CyberNews" text="CyberNews" type="rss" xmlUrl="https://flipboard.com/@CyberNews_com.rss"/>
+      <outline title="Security News – SC Media" text="Security News – SC Media" type="rss" xmlUrl="https://www.scmagazine.com/home/security-news/feed/"/>
+      <outline title="Cyber Security News" text="Cyber Security News" type="rss" xmlUrl="https://cybersecuritynews.com/feed/"/>
+      <outline title="The Daily Swig | Cybersecurity news and views" text="The Daily Swig | Cybersecurity news and views" type="rss" xmlUrl="https://portswigger.net/daily-swig/rss"/>
+      <outline title="Dark Reading:" text="Dark Reading:" type="rss" xmlUrl="https://www.darkreading.com/rss_simple.asp"/>
+      <outline title="The CyberWire" text="The CyberWire" type="rss" xmlUrl="https://thecyberwire.com/feeds/rss.xml"/>
     </outline>
   </body>
 </opml>
