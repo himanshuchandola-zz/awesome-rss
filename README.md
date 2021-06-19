@@ -11,3 +11,12 @@
 - [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) for iOS and Mac.
 - [Raven Reader](https://github.com/hello-efficiency-inc/raven-reader) for Windows PC.
 
+## Android Related
+- [Android News](https://github.com/himanshuchandola/awesome-rss/blob/main/OPML%20Files/Android%20News/android.opml)
+
+## ioS Related
+- [iOS News](https://github.com/himanshuchandola/awesome-rss/blob/main/OPML%20Files/iOS%20News/iOS.opml)
+
+## Cyber Security
+- [Cyber Security News](https://github.com/himanshuchandola/awesome-rss/blob/main/OPML%20Files/Cyber%20Security%20News/cybersecurity.opml)
+
