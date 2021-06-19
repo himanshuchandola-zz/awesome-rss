@@ -11,4 +11,26 @@ You can contribute to this repository very easily!
 
 1. Get the rss feed you want to add.
 
-2. 
+2. Fork Repository First.
+
+3. Go to OPML Lists Folder in your forked Repository.
+
+4. Select Folder according to the feeds category that you want to add.
+
+5. Go to the .OMPL file in that selected folder and edit it.
+ 
+  
+  Go to the bottom of the file and copy paste this line before `</outline>` line.
+  
+  ```
+  <outline title="enter-feed-title-here" text="enter-feed-title-here" type="rss" xmlUrl="enter-feed-url-here"/>
+  
+ ```
+ 
+6. Enter feed title and enter feed url by replacing above text with appropriate info of your feed.
+
+7. Once you're done, scroll to the bottom of the list to commit the change. Make sure the title of the commit is relevant. For example: Added RSS Feeds in Technology Category.
+
+8. After adding the commit title, click on propose changes and follow the steps to create a pull request.
+
+That's it! Congratulations on making your contribution!
