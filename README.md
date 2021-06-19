@@ -11,6 +11,6 @@
 
 ## Feeds Category
 - [Android News](https://github.com/himanshuchandola/awesome-rss/blob/main/OPML%20Files/Android%20News/android.opml)
-- [iOS News](https://github.com/himanshuchandola/awesome-rss/blob/main/OPML%20Files/iOS%20News/iOS.opml)
+- [Apple Ecosystem News](https://github.com/himanshuchandola/awesome-rss/blob/main/OPML%20Files/iOS%20News/iOS.opml)
 - [Cyber Security News](https://github.com/himanshuchandola/awesome-rss/blob/main/OPML%20Files/Cyber%20Security%20News/cybersecurity.opml)
 - [Technology News](https://github.com/himanshuchandola/awesome-rss/blob/main/OPML%20Files/Technology/technology.opml)

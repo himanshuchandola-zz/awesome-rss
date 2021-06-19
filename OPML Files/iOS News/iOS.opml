@@ -1,1 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+  <head>
+    <title>
+      ioS / Mac
+    </title>
+  </head>
+  <body>
+    <outline title="ios" text="ios">
+      <outline title="MacRumours" text="MacRumours" type="rss" xmlUrl="http://feeds.macrumors.com/MacRumors-All"/>
+      <outline title="Apple Insiders" text="Apple Insiders" type="rss" xmlUrl="https://appleinsider.com/rss/news"/>
+	  <outline title="9to5mac" text="9to5mac" type="rss" xmlUrl="https://9to5mac.com/feed/"/>
+	  <outline title="Iphone Hacks" text="Iphone Hacks" type="rss" xmlUrl="https://www.iphonehacks.com/feed"/>
+	  <outline title="Unlock Boot" text="Unlock Boot" type="rss" xmlUrl="https://feeds.feedburner.com/unlockboot/"/>
+	  <outline title="Apple Subreddit" text="Apple Subreddit" type="rss" xmlUrl="https://www.reddit.com/r/apple/new/.rss"/>
+	  <outline title="Mac Subreddit" text="Mac Subreddit" type="rss" xmlUrl="https://www.reddit.com/r/mac/new/.rss"/>
+    </outline>
+  </body>
+</opml>
+
 
