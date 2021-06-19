@@ -5,6 +5,7 @@
 - [Android Related](#android-related)
 - [IOS Related](#ios-related)
 - [Cyber Security](#cyber-security)
+- [Technology](#technology)
 
 ## RSS Feeds Apps
 - [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) for Android.
@@ -20,3 +21,5 @@
 ## Cyber Security
 - [Cyber Security News](https://github.com/himanshuchandola/awesome-rss/blob/main/OPML%20Files/Cyber%20Security%20News/cybersecurity.opml)
 
+## Technology
+- [Technology News](https://github.com/himanshuchandola/awesome-rss/blob/main/OPML%20Files/Technology/technology.opml)
