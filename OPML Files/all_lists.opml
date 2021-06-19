@@ -10,6 +10,15 @@
       <outline title="Android Central - Android Forums, News, Reviews, Help and Android Wallpapers" text="Android Central - Android Forums, News, Reviews, Help and Android Wallpapers" type="rss" xmlUrl="https://www.androidcentral.com/feed"/>
       <outline title="xda-developers" text="xda-developers" type="rss" xmlUrl="https://www.xda-developers.com/feed/"/>
     </outline>
+	<outline title="ios" text="ios">
+      <outline title="MacRumours" text="MacRumours" type="rss" xmlUrl="http://feeds.macrumors.com/MacRumors-All"/>
+      <outline title="Apple Insiders" text="Apple Insiders" type="rss" xmlUrl="https://appleinsider.com/rss/news"/>
+	  <outline title="9to5mac" text="9to5mac" type="rss" xmlUrl="https://9to5mac.com/feed/"/>
+	  <outline title="Iphone Hacks" text="Iphone Hacks" type="rss" xmlUrl="https://www.iphonehacks.com/feed"/>
+	  <outline title="Unlock Boot" text="Unlock Boot" type="rss" xmlUrl="https://feeds.feedburner.com/unlockboot/"/>
+	  <outline title="Apple Subreddit" text="Apple Subreddit" type="rss" xmlUrl="https://www.reddit.com/r/apple/new/.rss"/>
+	  <outline title="Mac Subreddit" text="Mac Subreddit" type="rss" xmlUrl="https://www.reddit.com/r/mac/new/.rss"/>
+    </outline>
     <outline title="Security" text="Security">
       <outline title="ycombinator news" text="ycombinator news" type="rss" xmlUrl="https://news.ycombinator.com/rss"/>
       <outline title="The Hacker News" text="The Hacker News" type="rss" xmlUrl="https://feeds.feedburner.com/TheHackersNews"/>
