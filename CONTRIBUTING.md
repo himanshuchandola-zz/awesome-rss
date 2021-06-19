@@ -33,4 +33,20 @@ You can contribute to this repository very easily!
 
 8. After adding the commit title, click on propose changes and follow the steps to create a pull request.
 
-That's it! Congratulations on making your contribution!
+
+
+## Adding New Category
+
+To add a new category, go to the Go to the [README](https://github.com/himanshuchandola/awesome-rss/blob/main/README.md) file of your forked Repository
+
+Edit it and add a list item with the name of the category and the URL to it (hash of the slug of the name). For example:
+
+```
+- [New Category](#new-category)
+```
+
+9. Once you're done, scroll to the bottom of the list to commit the change. Make sure the title of the commit is relevant. For example: Added How to Contribute under New Category.
+
+10 After adding the commit title, click on propose changes and follow the steps to create a pull request.
+
+**That's it! Congratulations on making your contribution!**
