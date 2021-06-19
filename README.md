@@ -1,5 +1,9 @@
 # Awesome RSS Feeds List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/himanshuchandola/awesome-rss)
 
+# Contribution
+
+To add rss feeds or contribute, please check out our contribution guide [here](https://github.com/himanshuchandola/awesome-rss/blob/main/CONTRIBUTING.md).
+
 ## Contents
 - [RSS Feeds Apps](#rss-feeds-apps)
 - [Feeds Cateogory](#feeds-category)
