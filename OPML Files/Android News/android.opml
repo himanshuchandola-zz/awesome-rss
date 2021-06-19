@@ -1,1 +1,14 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+  <head>
+    <title>
+      Android 
+    </title>
+  </head>
+  <body>
+    <outline title="Android News" text="Android News">
+      <outline title="Android Central - Android Forums, News, Reviews, Help and Android Wallpapers" text="Android Central - Android Forums, News, Reviews, Help and Android Wallpapers" type="rss" xmlUrl="https://www.androidcentral.com/feed"/>
+      <outline title="xda-developers" text="xda-developers" type="rss" xmlUrl="https://www.xda-developers.com/feed/"/>
+    </outline>
+	</body>
+</opml>
