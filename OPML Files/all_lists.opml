@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+  <head>
+    <title>
+      alllists
+    </title>
+  </head>
+  <body>
+    <outline title="Android News" text="Android News">
+      <outline title="Android Central - Android Forums, News, Reviews, Help and Android Wallpapers" text="Android Central - Android Forums, News, Reviews, Help and Android Wallpapers" type="rss" xmlUrl="https://www.androidcentral.com/feed"/>
+      <outline title="xda-developers" text="xda-developers" type="rss" xmlUrl="https://www.xda-developers.com/feed/"/>
+    </outline>
+    <outline title="Security" text="Security">
+      <outline title="ycombinator news" text="ycombinator news" type="rss" xmlUrl="https://news.ycombinator.com/rss"/>
+      <outline title="The Hacker News" text="The Hacker News" type="rss" xmlUrl="https://feeds.feedburner.com/TheHackersNews"/>
+      <outline title="Threatpost" text="Threatpost" type="rss" xmlUrl="https://threatpost.com/feed/"/>
+    </outline>
+    <outline title="Tech" text="Tech">
+      <outline title="TechCrunch" text="TechCrunch" type="rss" xmlUrl="https://techcrunch.com/feed/"/>
+      <outline title="The Verge - All Posts" text="The Verge - All Posts" type="rss" xmlUrl="https://www.theverge.com/rss/index.xml"/>
+    </outline>
+  </body>
+</opml>
