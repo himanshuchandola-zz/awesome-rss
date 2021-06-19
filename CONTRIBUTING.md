@@ -13,7 +13,7 @@ You can contribute to this repository very easily!
 
 2. Fork Repository First.
 
-3. Go to OPML Lists Folder in your forked Repository.
+3. Go to [OPML Lists](https://github.com/himanshuchandola/awesome-rss/tree/main/OPML%20Files) Folder in your forked Repository.
 
 4. Select Folder according to the feeds category that you want to add.
 
