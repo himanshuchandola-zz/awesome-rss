@@ -4,6 +4,9 @@
 # Content
 
 - [Adding rss feeds url](#adding-rss-feeds-url)
+- [Adding New Category] (#adding-new-category)
+
+
 
 ## Adding Rss Feeds Url
 
@@ -33,7 +36,7 @@ You can contribute to this repository very easily!
 
 8. After adding the commit title, click on propose changes and follow the steps to create a pull request.
 
-
+<hr><hr>
 
 ## Adding New Category
 
