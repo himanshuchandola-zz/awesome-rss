@@ -4,7 +4,7 @@
 # Content
 
 - [Adding rss feeds url](#adding-rss-feeds-url)
-- [Adding New Category] (#adding-new-category)
+- [Adding New Category](#adding-new-category)
 
 
 
