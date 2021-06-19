@@ -4,6 +4,8 @@
 
 To add rss feeds or contribute, please check out our contribution guide [here](https://github.com/himanshuchandola/awesome-rss/blob/main/CONTRIBUTING.md).
 
+Or if your want to suggest feeds directly you can suggest ideas in [discussions](https://github.com/himanshuchandola/awesome-rss/discussions/1#discussioncomment-891742)
+
 ## Contents
 - [RSS Feeds Apps](#rss-feeds-apps)
 - [Feeds Cateogory](#feeds-category)
