@@ -96,6 +96,7 @@
 		<outline type="rss" xmlUrl="http://xenia.jp/feed.xml"/>
 		<outline title="Tech Xplore - electronic gadgets, technology advances and research news" text="Tech Xplore - electronic gadgets, technology advances and research news" type="rss" xmlUrl="https://techxplore.com/rss-feed/"/>
         <outline title="Articles on TechRepublic" text="Articles on TechRepublic" type="rss" xmlUrl="http://feeds.feedburner.com/techrepublic/EdPd"/>
+		<outline title="Joho no Todai (Japanese Technology News)" text="Joho no Todai (Japanese Technology News)" type="rss" xmlUrl="https://joho-todai.com/pinterest-rss/"/>
 	</outline>
   </body>
 </opml>
